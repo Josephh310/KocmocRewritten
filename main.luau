@@ -9,4 +9,3 @@ local Window = WindUI:CreateWindow {
     Folder = 'Kocmoc',
     Size = UDim2.fromScale(0.5, 0.5)
 }
-
